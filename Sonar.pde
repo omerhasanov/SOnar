@@ -1,5 +1,3 @@
-// Proje Hocam - Radar Projesi
-// Murat DURAN - V2
 import processing.serial.*; // kütüphane entegresi
 import java.awt.event.KeyEvent; 
 import java.io.IOException;
