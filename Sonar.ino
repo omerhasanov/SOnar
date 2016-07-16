@@ -1,5 +1,3 @@
-// Proje Hocam - Radar Projesi
-// Murat DURAN - V2
 #include <Servo.h>. 
  
 // Ultrasonik Sinyal pinleri
